@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "Loan Application",
+      "type": "text",
+      "id": "Field_0imomg5"
+    },
+    {
+      "label": "FirstName",
+      "type": "textfield",
+      "id": "Field_01w4ddm",
+      "key": "field_1dy6hua",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "LastName",
+      "type": "textfield",
+      "id": "Field_18zdaig",
+      "key": "field_0su6u00",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Education",
+      "type": "textfield",
+      "id": "Field_0t0a4sg",
+      "key": "field_03zzvdq",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Age",
+      "type": "number",
+      "id": "Field_04dj88i",
+      "key": "field_0x63286",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Email Address",
+      "type": "textfield",
+      "id": "Field_078epvz",
+      "key": "field_0nm0v3y",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Date_of_Birtth",
+      "type": "number",
+      "id": "Field_1kg9vij",
+      "key": "field_0z2j45j",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Phone Number",
+      "type": "textfield",
+      "id": "Field_1kcz2t5",
+      "key": "field_0viqfgg",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Address",
+      "type": "textfield",
+      "id": "Field_1svs2vu",
+      "key": "field_0muoo3r"
+    },
+    {
+      "action": "submit",
+      "label": "Proceed",
+      "type": "button",
+      "id": "Field_1r1q5a4",
+      "key": "field_1kbu3c8"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0rdjphk"
+}

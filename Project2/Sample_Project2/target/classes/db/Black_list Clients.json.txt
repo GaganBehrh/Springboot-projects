@@ -1,0 +1,27 @@
+{
+   "blacklistcustomer": [
+	
+      {
+         "custid":1,
+		"FirstName": "Donald",
+		"LastName":"Trump",
+		"Education":"College",
+		 "Age":18
+      },
+	
+      {
+         "custid":2,
+		"FirstName": "Ethen",
+		"LastName":"Weasley",
+		"Education":"University",
+		 "Age":18
+      },
+      {
+          "custid":3,
+		"FirstName": "Marco",
+		"LastName":"Granger",
+		"Education":"College",
+		 "Age":18
+      }
+   ]
+}

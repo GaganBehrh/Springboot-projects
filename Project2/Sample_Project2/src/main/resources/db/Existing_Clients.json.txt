@@ -1,0 +1,42 @@
+{
+   "existingcustomer": [
+	
+      {
+        "custid":1,
+		"FirstName": "Rafael",
+		"LastName":"Senn",
+		"Education":"College",
+		 "Age":18
+      },
+	
+      {
+         "custid":2,
+		"FirstName": "Raf",
+		"LastName":"Kronig",
+		"Education":"University",
+		 "Age":18
+      },
+      {
+         "custid":3,
+		"FirstName": "Saf",
+		"LastName":"Renn",
+		"Education":"College",
+		 "Age":18
+      },
+      {"custid":4,
+		"FirstName": "Michael",
+		"LastName":"Renn",
+		"Education":"University",
+		 "Age":18
+          
+      },
+      {
+          "custid":5,
+		"FirstName": "Mike",
+		"LastName":"Schobotsky",
+		"Education":"University",
+		 "Age":18
+          
+      }
+   ]
+}
