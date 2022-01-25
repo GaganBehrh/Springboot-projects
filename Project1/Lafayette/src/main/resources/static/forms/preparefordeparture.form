@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Pack Cash",
+      "type": "textfield",
+      "id": "Field_0yez4p6",
+      "key": "money",
+      "description": "How much cash do yo yoiu want to bring?",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Where are you heading?",
+      "type": "textfield",
+      "id": "Field_1jh26qc",
+      "key": "country",
+      "description": "Country you are going to",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_1ptbixq"
+}
